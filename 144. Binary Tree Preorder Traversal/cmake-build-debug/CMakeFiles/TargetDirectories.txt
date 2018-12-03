@@ -1,0 +1,3 @@
+/Users/wenyangzheng/CLion/144. Binary Tree Preorder Traversal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/CLion/144. Binary Tree Preorder Traversal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/CLion/144. Binary Tree Preorder Traversal/cmake-build-debug/CMakeFiles/144__Binary_Tree_Preorder_Traversal.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wenyangzheng/CLion/146. LRU Cache/main.cpp
+iostream
+-
+vector
+-
+unordered_map
+-
+queue
+-
+iterator
+-
+utility
+-
+

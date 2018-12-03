@@ -1,0 +1,3 @@
+/Users/wenyangzheng/CLion/51. N-Queens/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/CLion/51. N-Queens/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/CLion/51. N-Queens/cmake-build-debug/CMakeFiles/51__N_Queens.dir

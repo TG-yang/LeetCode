@@ -1,0 +1,3 @@
+/Users/wenyangzheng/CLion/65. Valid Number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/CLion/65. Valid Number/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/CLion/65. Valid Number/cmake-build-debug/CMakeFiles/65__Valid_Number.dir

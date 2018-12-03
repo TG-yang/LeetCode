@@ -1,0 +1,3 @@
+/Users/wenyangzheng/CLion/151. Reverse Words in a String/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/CLion/151. Reverse Words in a String/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/CLion/151. Reverse Words in a String/cmake-build-debug/CMakeFiles/151__Reverse_Words_in_a_String.dir

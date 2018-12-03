@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(167__Two_Sum_II___Input_array_is_sorted)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(167__Two_Sum_II___Input_array_is_sorted main.cpp)

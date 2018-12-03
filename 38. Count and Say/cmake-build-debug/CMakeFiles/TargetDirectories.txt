@@ -1,0 +1,3 @@
+/Users/wenyangzheng/CLion/38. Count and Say/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/CLion/38. Count and Say/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/CLion/38. Count and Say/cmake-build-debug/CMakeFiles/38__Count_and_Say.dir

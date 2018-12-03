@@ -1,0 +1,3 @@
+/Users/wenyangzheng/CLion/129. Sum Root to Leaf Numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/CLion/129. Sum Root to Leaf Numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/CLion/129. Sum Root to Leaf Numbers/cmake-build-debug/CMakeFiles/129__Sum_Root_to_Leaf_Numbers.dir

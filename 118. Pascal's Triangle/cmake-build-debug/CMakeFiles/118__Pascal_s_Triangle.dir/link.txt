@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/118__Pascal_s_Triangle.dir/main.cpp.o  -o 118__Pascal_s_Triangle 

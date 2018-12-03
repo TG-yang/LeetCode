@@ -1,0 +1,3 @@
+/Users/wenyangzheng/CLion/68. Text Justification/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/CLion/68. Text Justification/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/CLion/68. Text Justification/cmake-build-debug/CMakeFiles/68__Text_Justification.dir

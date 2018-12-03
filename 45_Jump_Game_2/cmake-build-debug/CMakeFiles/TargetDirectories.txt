@@ -1,0 +1,3 @@
+/Users/wenyangzheng/CLion/45_Jump_Game_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/CLion/45_Jump_Game_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/CLion/45_Jump_Game_2/cmake-build-debug/CMakeFiles/45_Jump_Game_2.dir

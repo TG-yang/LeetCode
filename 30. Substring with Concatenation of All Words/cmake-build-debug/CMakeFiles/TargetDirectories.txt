@@ -1,0 +1,3 @@
+/Users/wenyangzheng/CLion/30. Substring with Concatenation of All Words/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/CLion/30. Substring with Concatenation of All Words/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/CLion/30. Substring with Concatenation of All Words/cmake-build-debug/CMakeFiles/30__Substring_with_Concatenation_of_All_Words.dir

@@ -1,0 +1,3 @@
+/Users/wenyangzheng/CLion/166. Fraction to Recurring Decimal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/CLion/166. Fraction to Recurring Decimal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/CLion/166. Fraction to Recurring Decimal/cmake-build-debug/CMakeFiles/166__Fraction_to_Recurring_Decimal.dir
