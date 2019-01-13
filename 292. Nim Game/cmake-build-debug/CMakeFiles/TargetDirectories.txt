@@ -1,0 +1,3 @@
+/Users/wenyangzheng/LeetCode/292. Nim Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/LeetCode/292. Nim Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/LeetCode/292. Nim Game/cmake-build-debug/CMakeFiles/292__Nim_Game.dir

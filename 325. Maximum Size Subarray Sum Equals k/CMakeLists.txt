@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(325__Maximum_Size_Subarray_Sum_Equals_k)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(325__Maximum_Size_Subarray_Sum_Equals_k main.cpp)

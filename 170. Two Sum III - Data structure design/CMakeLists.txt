@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(170__Two_Sum_III___Data_structure_design)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(170__Two_Sum_III___Data_structure_design main.cpp)

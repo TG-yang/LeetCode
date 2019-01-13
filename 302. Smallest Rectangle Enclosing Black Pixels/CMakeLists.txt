@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(302__Smallest_Rectangle_Enclosing_Black_Pixels)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(302__Smallest_Rectangle_Enclosing_Black_Pixels main.cpp)

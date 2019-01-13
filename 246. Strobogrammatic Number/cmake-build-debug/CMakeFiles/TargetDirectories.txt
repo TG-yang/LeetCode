@@ -1,0 +1,3 @@
+/Users/wenyangzheng/LeetCode/246. Strobogrammatic Number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/LeetCode/246. Strobogrammatic Number/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/LeetCode/246. Strobogrammatic Number/cmake-build-debug/CMakeFiles/246__Strobogrammatic_Number.dir

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(272__Closest_Binary_Search_Tree_Value_II)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(272__Closest_Binary_Search_Tree_Value_II main.cpp)

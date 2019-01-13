@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(159__Longest_Substring_with_At_Most_Two_Distinct_Characters)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(159__Longest_Substring_with_At_Most_Two_Distinct_Characters main.cpp)

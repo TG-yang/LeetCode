@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(158__Read_N_Characters_Given_Read4_II___Call_multiple_times)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(158__Read_N_Characters_Given_Read4_II___Call_multiple_times main.cpp)

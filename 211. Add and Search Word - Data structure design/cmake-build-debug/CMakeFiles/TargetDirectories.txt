@@ -1,0 +1,3 @@
+/Users/wenyangzheng/LeetCode/211. Add and Search Word - Data structure design/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/LeetCode/211. Add and Search Word - Data structure design/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/LeetCode/211. Add and Search Word - Data structure design/cmake-build-debug/CMakeFiles/211__Add_and_Search_Word___Data_structure_design.dir

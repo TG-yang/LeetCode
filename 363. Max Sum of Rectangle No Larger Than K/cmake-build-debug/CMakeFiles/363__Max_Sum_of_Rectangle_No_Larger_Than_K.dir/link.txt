@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/363__Max_Sum_of_Rectangle_No_Larger_Than_K.dir/main.cpp.o  -o 363__Max_Sum_of_Rectangle_No_Larger_Than_K 

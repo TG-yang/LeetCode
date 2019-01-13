@@ -1,0 +1,3 @@
+/Users/wenyangzheng/LeetCode/334. Increasing Triplet Subsequence/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/LeetCode/334. Increasing Triplet Subsequence/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/LeetCode/334. Increasing Triplet Subsequence/cmake-build-debug/CMakeFiles/334__Increasing_Triplet_Subsequence.dir

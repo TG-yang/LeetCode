@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(381__Insert_Delete_GetRandom_O_1____Duplicates_allowed)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(381__Insert_Delete_GetRandom_O_1____Duplicates_allowed main.cpp)

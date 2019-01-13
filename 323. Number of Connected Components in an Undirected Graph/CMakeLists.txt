@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(323__Number_of_Connected_Components_in_an_Undirected_Graph)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(323__Number_of_Connected_Components_in_an_Undirected_Graph main.cpp)

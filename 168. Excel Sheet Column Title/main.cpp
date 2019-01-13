@@ -36,7 +36,8 @@ public:
 //65
 int main() {
     Solution*s;
-    s->convertToTitle(701);
-    std::cout << "Hello, World!" << std::endl;
+//    s->convertToTitle(701);
+//    std::cout << "Hello, World!" << std::endl;
+    cout << (char)(65);
     return 0;
 }

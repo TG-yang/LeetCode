@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="346__Moving_Average_from_Data_Stream" targetName="346__Moving_Average_from_Data_Stream" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a74265ed-5baa-4e77-b83e-d9493bfaf6f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../159. Longest Substring with At Most Two Distinct Characters/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../170. Two Sum III - Data structure design/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../189. Rotate Array/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../189. Rotate Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../190. Reverse Bits/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../190. Reverse Bits/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../191. Number of 1 Bits/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../191. Number of 1 Bits/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../198. House Robber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../199. Binary Tree Right Side View/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../199. Binary Tree Right Side View/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../200. Number of Islands/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../200. Number of Islands/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../201. Bitwise AND of Numbers Range/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../201. Bitwise AND of Numbers Range/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../202. Happy Number/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../202. Happy Number/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../204. Count Primes/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../204. Count Primes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../205. Isomorphic Strings/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../205. Isomorphic Strings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../206. Reverse Linked List/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../206. Reverse Linked List/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../207. Course Schedule/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../207. Course Schedule/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../208. Implement Trie (Prefix Tree)/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../208. Implement Trie (Prefix Tree)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../210. Course Schedule II/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../210. Course Schedule II/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../211. Add and Search Word - Data structure design/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../211. Add and Search Word - Data structure design/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../212. Word Search II/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../212. Word Search II/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../213. House Robber II/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../214. Shortest Palindrome/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../214. Shortest Palindrome/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../216. Combination Sum III/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../220. Contains Duplicate III/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../221. Maximal Square/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../221. Maximal Square/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../229. Majority Element II/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../230. Kth Smallest Element in a BST/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../231. Power of Two/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../237. Delete Node in a Linked List/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../244. Shortest Word Distance II/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../252. Meeting Rooms/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../253. Meeting Rooms II/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../254. Factor Combinations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../260. Single Number III/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../261. Graph Valid Tree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../263. Ugly Number/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../269. Alien Dictionary/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../278. First Bad Version/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../289. Game of Life/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../296. Best Meeting Point/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../297. Serialize and Deserialize Binary Tree/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../297. Serialize and Deserialize Binary Tree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../298. Binary Tree Longest Consecutive Sequence/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../304. Range Sum Query 2D - Immutable/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../304. Range Sum Query 2D - Immutable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../306. Additive Number/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../317. Shortest Distance from All Buildings/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../317. Shortest Distance from All Buildings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../339. Nested List Weight Sum/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../339. Nested List Weight Sum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../340. Longest Substring with At Most K Distinct Characters/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../386. Lexicographical Numbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../387. First Unique Character in a String/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../168. Excel Sheet Column Title/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../168. Excel Sheet Column Title/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeFiles/3.10.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../168. Excel Sheet Column Title/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../168. Excel Sheet Column Title/main.cpp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="1772884542">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="311" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="311" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="27" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.346__Moving_Average_from_Data_Stream">
+    <configuration name="346__Moving_Average_from_Data_Stream" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="346__Moving_Average_from_Data_Stream" TARGET_NAME="346__Moving_Average_from_Data_Stream" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="346__Moving_Average_from_Data_Stream" RUN_TARGET_NAME="346__Moving_Average_from_Data_Stream">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.346__Moving_Average_from_Data_Stream" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a74265ed-5baa-4e77-b83e-d9493bfaf6f3" name="Default Changelist" comment="" />
+      <created>1547303502068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547303502068</updated>
+      <workItem from="1547303503381" duration="632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="632000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="CMake" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="27" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(317__Shortest_Distance_from_All_Buildings)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(317__Shortest_Distance_from_All_Buildings main.cpp)

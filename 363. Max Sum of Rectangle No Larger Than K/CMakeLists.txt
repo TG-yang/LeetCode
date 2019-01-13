@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(363__Max_Sum_of_Rectangle_No_Larger_Than_K)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(363__Max_Sum_of_Rectangle_No_Larger_Than_K main.cpp)

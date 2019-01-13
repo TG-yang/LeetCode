@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(255__Verify_Preorder_Sequence_in_Binary_Search_Tree)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(255__Verify_Preorder_Sequence_in_Binary_Search_Tree main.cpp)

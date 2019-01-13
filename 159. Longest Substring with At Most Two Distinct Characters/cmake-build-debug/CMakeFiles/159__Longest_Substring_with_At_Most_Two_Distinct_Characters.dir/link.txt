@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/159__Longest_Substring_with_At_Most_Two_Distinct_Characters.dir/main.cpp.o  -o 159__Longest_Substring_with_At_Most_Two_Distinct_Characters 
