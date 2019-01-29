@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wenyangzheng/LeetCode/438. Find All Anagrams in a String/main.cpp
+iostream
+-
+vector
+-
+string
+-
+unordered_map
+-
+

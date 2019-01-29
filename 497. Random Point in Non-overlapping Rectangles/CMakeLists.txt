@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(497__Random_Point_in_Non_overlapping_Rectangles)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(497__Random_Point_in_Non_overlapping_Rectangles main.cpp)

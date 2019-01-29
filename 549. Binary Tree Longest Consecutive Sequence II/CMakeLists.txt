@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(549__Binary_Tree_Longest_Consecutive_Sequence_II)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(549__Binary_Tree_Longest_Consecutive_Sequence_II main.cpp)

@@ -1,0 +1,3 @@
+/Users/wenyangzheng/LeetCode/481. Magical String/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/LeetCode/481. Magical String/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/LeetCode/481. Magical String/cmake-build-debug/CMakeFiles/481__Magical_String.dir

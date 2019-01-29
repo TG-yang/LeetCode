@@ -1,0 +1,3 @@
+/Users/wenyangzheng/LeetCode/428. Serialize and Deserialize N-ary Tree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/LeetCode/428. Serialize and Deserialize N-ary Tree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/LeetCode/428. Serialize and Deserialize N-ary Tree/cmake-build-debug/CMakeFiles/428__Serialize_and_Deserialize_N_ary_Tree.dir

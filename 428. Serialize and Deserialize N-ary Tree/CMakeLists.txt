@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(428__Serialize_and_Deserialize_N_ary_Tree)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(428__Serialize_and_Deserialize_N_ary_Tree main.cpp)

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(421__Maximum_XOR_of_Two_Numbers_in_an_Array)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(421__Maximum_XOR_of_Two_Numbers_in_an_Array main.cpp)

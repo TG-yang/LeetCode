@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(452__Minimum_Number_of_Arrows_to_Burst_Balloons)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(452__Minimum_Number_of_Arrows_to_Burst_Balloons main.cpp)

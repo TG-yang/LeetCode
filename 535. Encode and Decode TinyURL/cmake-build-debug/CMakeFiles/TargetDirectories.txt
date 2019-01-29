@@ -1,0 +1,3 @@
+/Users/wenyangzheng/LeetCode/535. Encode and Decode TinyURL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/LeetCode/535. Encode and Decode TinyURL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/LeetCode/535. Encode and Decode TinyURL/cmake-build-debug/CMakeFiles/535__Encode_and_Decode_TinyURL.dir

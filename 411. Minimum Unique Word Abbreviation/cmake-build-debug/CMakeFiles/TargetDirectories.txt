@@ -1,0 +1,3 @@
+/Users/wenyangzheng/LeetCode/411. Minimum Unique Word Abbreviation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/LeetCode/411. Minimum Unique Word Abbreviation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/LeetCode/411. Minimum Unique Word Abbreviation/cmake-build-debug/CMakeFiles/411__Minimum_Unique_Word_Abbreviation.dir

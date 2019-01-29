@@ -11,90 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ae171ec-cc35-47bb-be7c-3e565c911dc6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../159. Longest Substring with At Most Two Distinct Characters/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../170. Two Sum III - Data structure design/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../189. Rotate Array/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../189. Rotate Array/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190. Reverse Bits/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190. Reverse Bits/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../191. Number of 1 Bits/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../191. Number of 1 Bits/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../198. House Robber/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../199. Binary Tree Right Side View/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../199. Binary Tree Right Side View/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../200. Number of Islands/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../200. Number of Islands/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../201. Bitwise AND of Numbers Range/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../201. Bitwise AND of Numbers Range/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../202. Happy Number/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../202. Happy Number/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../204. Count Primes/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../204. Count Primes/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../205. Isomorphic Strings/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../205. Isomorphic Strings/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../206. Reverse Linked List/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../206. Reverse Linked List/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../207. Course Schedule/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../207. Course Schedule/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../208. Implement Trie (Prefix Tree)/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../208. Implement Trie (Prefix Tree)/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../210. Course Schedule II/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../210. Course Schedule II/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../211. Add and Search Word - Data structure design/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../211. Add and Search Word - Data structure design/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../212. Word Search II/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../212. Word Search II/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../213. House Robber II/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../214. Shortest Palindrome/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../214. Shortest Palindrome/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../216. Combination Sum III/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../220. Contains Duplicate III/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../221. Maximal Square/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../221. Maximal Square/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../229. Majority Element II/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../230. Kth Smallest Element in a BST/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../231. Power of Two/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../237. Delete Node in a Linked List/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../244. Shortest Word Distance II/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../252. Meeting Rooms/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../253. Meeting Rooms II/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../254. Factor Combinations/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../260. Single Number III/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../261. Graph Valid Tree/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../263. Ugly Number/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../269. Alien Dictionary/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../278. First Bad Version/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../289. Game of Life/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../296. Best Meeting Point/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../297. Serialize and Deserialize Binary Tree/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../297. Serialize and Deserialize Binary Tree/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../298. Binary Tree Longest Consecutive Sequence/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../304. Range Sum Query 2D - Immutable/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../304. Range Sum Query 2D - Immutable/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../306. Additive Number/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../317. Shortest Distance from All Buildings/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../317. Shortest Distance from All Buildings/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../339. Nested List Weight Sum/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../339. Nested List Weight Sum/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../340. Longest Substring with At Most K Distinct Characters/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../356. Line Reflection/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../359. Logger Rate Limiter/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../359. Logger Rate Limiter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../366. Find Leaves of Binary Tree/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../386. Lexicographical Numbers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../387. First Unique Character in a String/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../168. Excel Sheet Column Title/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../168. Excel Sheet Column Title/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeFiles/3.10.2/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../168. Excel Sheet Column Title/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../168. Excel Sheet Column Title/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../168. Excel Sheet Column Title/main.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="8ae171ec-cc35-47bb-be7c-3e565c911dc6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +24,7 @@
     <session id="1099094949">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>

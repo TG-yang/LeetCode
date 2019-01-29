@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(462__Minimum_Moves_to_Equal_Array_Elements_II)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(462__Minimum_Moves_to_Equal_Array_Elements_II main.cpp)

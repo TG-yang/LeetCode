@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(471__Encode_String_with_Shortest_Length)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(471__Encode_String_with_Shortest_Length main.cpp)

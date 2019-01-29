@@ -1,0 +1,3 @@
+/Users/wenyangzheng/LeetCode/483. Smallest Good Base/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/LeetCode/483. Smallest Good Base/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/LeetCode/483. Smallest Good Base/cmake-build-debug/CMakeFiles/483__Smallest_Good_Base.dir

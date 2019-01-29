@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(440__K_th_Smallest_in_Lexicographical_Order)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(440__K_th_Smallest_in_Lexicographical_Order main.cpp)

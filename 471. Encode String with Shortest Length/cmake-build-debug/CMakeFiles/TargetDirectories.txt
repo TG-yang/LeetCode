@@ -1,0 +1,3 @@
+/Users/wenyangzheng/LeetCode/471. Encode String with Shortest Length/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/LeetCode/471. Encode String with Shortest Length/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/LeetCode/471. Encode String with Shortest Length/cmake-build-debug/CMakeFiles/471__Encode_String_with_Shortest_Length.dir

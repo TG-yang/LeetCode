@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(426__Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(426__Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List main.cpp)

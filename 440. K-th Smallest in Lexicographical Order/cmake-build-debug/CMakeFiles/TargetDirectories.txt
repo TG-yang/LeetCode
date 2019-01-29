@@ -1,0 +1,3 @@
+/Users/wenyangzheng/LeetCode/440. K-th Smallest in Lexicographical Order/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenyangzheng/LeetCode/440. K-th Smallest in Lexicographical Order/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenyangzheng/LeetCode/440. K-th Smallest in Lexicographical Order/cmake-build-debug/CMakeFiles/440__K_th_Smallest_in_Lexicographical_Order.dir

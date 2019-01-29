@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(395__Longest_Substring_with_At_Least_K_Repeating_Characters)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(395__Longest_Substring_with_At_Least_K_Repeating_Characters main.cpp)
